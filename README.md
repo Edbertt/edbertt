@@ -1,4 +1,8 @@
 ## Hi there 👋
+🔭 I’m currently working as Full-Stack Web Developer
+🌱 Currently using Pyhton, Ruby on Rails, and Next.js
+
+
 
 <!--
 **Edbertt/edbertt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
