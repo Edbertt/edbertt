@@ -1,6 +1,6 @@
 ## Hi there 👋
-🔭 I’m currently working as Full-Stack Web Developer
-🌱 Currently using Pyhton, Ruby on Rails, and Next.js
+- 🔭 I’m currently working as Full-Stack Web Developer
+- 🌱 Currently using Pyhton, Ruby on Rails, and Next.js
 
 
 
